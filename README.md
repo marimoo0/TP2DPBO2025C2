@@ -36,7 +36,7 @@ Terdapat 3 Kelas yaitu kelas PetShop, Aksesoris, Baju
 - Membuat list of objek PetShop
 - Instansiasi objek PetShop
 - inisialisasi objek PetShop dengan menggunakan method setter yang ada pada kelas PetShop
-- masukan objek ke dalam listPetShop
+- masukan objek ke dalam list PetShop
 - menampilkan isi list PetShop
 
 ## -- Dokumentasi saat Program di Jalankan --
