@@ -20,7 +20,7 @@ Terdapat 3 Kelas yaitu kelas PetShop, Aksesoris, Baju
 
 #### 2. Kelas Aksesoris
 
-- memiliki private atribu untuk menyimpan data jenis, bahan, warna
+- memiliki private atribut untuk menyimpan data jenis, bahan, warna
 - memiliki public method kontruktor, setter, dan getter untuk jenis, bahan, warna . Setter untuk menginisialisasi atribut sedangkan getter untuk mereturn nilai atribut pada kelas
 - kelas Aksesoris ini menjadi derived class 1/Intermediary Class, yaitu child dari kelas PetShop dan parent dari kelas Baju
 
