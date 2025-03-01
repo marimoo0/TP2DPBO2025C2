@@ -1,10 +1,3 @@
-/* Saya Khana Yusdiana 2100991 mengerjakan soal Latihan 1
-dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
-untuk keberkahanNya maka saya tidak melakukan kecurangan
-seperti yang telah dispesifikasikan. Aamiin. */
-
-// Import library
-// File: Main.java
 import java.util.Scanner;
 
 public class Main {
