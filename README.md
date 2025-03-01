@@ -8,14 +8,14 @@ Saya Khana Yusdiana NIM 2100991 mengerjakan soal TP 2 dalam mata kuliah Desain d
 
 Program berbasis OOP dengan menerapkan konsep Multi-level Inheritance.
 
-Terdapat 3 Kelas yaitu kelas PetShop, Aksesoris, Baju
+Terdapat Kelas yaitu kelas PetShop yang memiliki relasi dengan kelas Aksesoris, dan kelas Baju memeliki relasi dengan kelas aksesoris
 
 ![1](https://github.com/marimoo0/TP2DPBO2025C2/blob/9b99b3eb8f3cd28aaa53ee52a0342297ee2ccaa9/Class%20Diagram.png)
 
 #### 1. Kelas PetShop
 
 - memiliki private atribut untuk menyimpan data id, nama_produk, harga_produk, stok_produk, foto_produk.
-- memiliki public method kontruktor, setter, dan getter untuk id, nama_produk, harga_produk, stok_produk, foto_produk.. Setter untuk menginisialisasi atribut sedangkan getter untuk mereturn nilai atribut pada kelas
+- memiliki public method kontruktor, setter, dan getter untuk id, nama_produk, harga_produk, stok_produk, foto_produk. Setter untuk menginisialisasi atribut sedangkan getter untuk mereturn nilai atribut pada kelas
 - kelas PetShop ini menjadi super/base class, yaitu parent dari kelas Aksesoris
 
 #### 2. Kelas Aksesoris
@@ -34,7 +34,6 @@ Terdapat 3 Kelas yaitu kelas PetShop, Aksesoris, Baju
 
 - Pertama, import library dan file kelas yang digunakan
 - Membuat list of objek PetShop
-- Instansiasi objek PetShop
 - inisialisasi objek PetShop dengan menggunakan method setter yang ada pada kelas PetShop
 - masukan objek ke dalam list PetShop
 - menampilkan isi list PetShop
